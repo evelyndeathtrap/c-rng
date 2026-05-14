@@ -12,3 +12,5 @@ this should also work on cpu instructions
 
 this makes your computer quantum
 ( is any value, until read )
+
+includes Intel variant
