@@ -9,3 +9,6 @@ requirements:
 list of words sorted by frequency in cwords.txt
 can also lkst characters by frequency
 this should also work on cpu instructions
+
+this makes your computer quantum
+( is any value, until read )
