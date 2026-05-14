@@ -8,3 +8,4 @@ can use sleep
 requirements:
 list of words sorted by frequency in cwords.txt
 can also lkst characters by frequency
+this should also work on cpu instructions
