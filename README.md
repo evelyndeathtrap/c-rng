@@ -17,3 +17,5 @@ includes Intel variant
 
 
 i like to od q.c to clipboard.
+
+surgical i think was ./main.c | nc -u 127.0.0.3 3
