@@ -14,3 +14,6 @@ this makes your computer quantum
 ( is any value, until read )
 
 includes Intel variant
+
+
+i like to od q.c to clipboard.
