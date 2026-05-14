@@ -1,4 +1,4 @@
- GNU nano 9.0                   gen.c
+
 #include <stdio.h>
 
 int main(void) {
