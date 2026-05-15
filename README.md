@@ -21,3 +21,5 @@ i like to od q.c to clipboard.
 surgical i think was ./main.c | nc -u 127.0.0.3 3
 
 You can use your own seed for srand()
+
+oh and the accursed, dreaded pc.c
