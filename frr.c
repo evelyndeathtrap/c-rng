@@ -16,7 +16,7 @@
 #define N_HARMONICS 8        // Number of Fourier Series harmonics to extract
 
 const double JULIA_RE = -1.0;
-const double JULIA_IM = 0.0001;
+const double JULIA_IM = 0;
 
 int random_fd = -1;
 
